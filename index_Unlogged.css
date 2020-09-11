@@ -129,6 +129,13 @@ span{
     padding: 0%;
 }
 
+.member-btn{
+    background-color: var(--ButtonPanel);
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    font-size: 1vw;
+}
 
                         /* CSS FOR BUTTON PANEL SECTION 1 */
 
@@ -156,7 +163,7 @@ background-color: var(--SectionOne);
 }
 
 .sec_1{
-    max-width: 17%;
+    max-width: 16%;
     max-height: 20%;
     padding: 0.9375rem 0.625rem;
 }
